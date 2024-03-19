@@ -1,0 +1,17 @@
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\bin\Debug\Ювелирный магазин.accdb
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\bin\Debug\Jewelry Store.exe.config
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\bin\Debug\Jewelry Store.exe
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\bin\Debug\Jewelry Store.pdb
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Category.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Clients.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Enter.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Main.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Products.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Properties.Resources.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Sale.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry_Store.Staff.resources
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry Store.csproj.GenerateResource.cache
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry Store.csproj.CoreCompileInputs.cache
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry Store.exe
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry Store.pdb
+Z:\!Обмен\УП 01.01\отчеты\Пугачева\УП 08\Jewelry Store\Jewelry Store\obj\Debug\Jewelry Store.csproj.AssemblyReference.cache
